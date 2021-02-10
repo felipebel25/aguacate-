@@ -30,7 +30,7 @@ npx create-snowpack-app my-app --template snowpack-template-tailwind --use-yarn
 ## Features
 
 - Snowpack, of course.
-- Tailwind.
+
 - Prettier.
 - Force prettier on commit.
 - Autopublish on Github Pages.
@@ -69,3 +69,6 @@ Your app is ready to be deployed!
 ### Q: What about Eject?
 
 No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+![imagen](/images/Captura de pantalla de 2021-02-09 20-32-50.png)
+![imagen](images/localhost_8080_index.html(Moto G4).png)
+![imagen](images/images/localhost_8080_index.html(Surface Duo).png)
